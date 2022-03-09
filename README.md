@@ -1,6 +1,6 @@
 # Leader Board
 
-This project is a build of my official Software Developer portfolio.
+The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
 
 ![sneak peak of project deployment](leaderboard_wireframe.png)
 
@@ -14,8 +14,8 @@ This project is a build of my official Software Developer portfolio.
  - LeaderBoard API
 
 
-## Live Demo
-[Deployed]()
+## Live Deploy
+[Deploy-link](https://i-max-xi.github.io/LeaderBoard/dist/)
 
 Quick note: Deployment is rooted to the main branch hence unmerged changes may not show.
 
