@@ -30,7 +30,6 @@ Give a ⭐️ if you like this project!
 ## Acknowledgement:
    - Big thanks to Microverse.
    - Hat tip to W3css and every website that trained me to code.
-   - etc.
 
 ## 📝 License
    This project is MIT licensed.
