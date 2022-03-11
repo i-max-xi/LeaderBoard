@@ -350,7 +350,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "* {\r\n  margin: 0;\r\n  box-sizing: border-box;\r\n}\r\n\r\nbody {\r\n  padding: 20px;\r\n  font-family: \"Gill Sans\", \"Gill Sans MT\", Calibri, \"Trebuchet MS\", sans-serif;\r\n}\r\n\r\nsection {\r\n  display: grid;\r\n  grid-template-columns: 45% 20%;\r\n  gap: 100px;\r\n}\r\n\r\nsection > div {\r\n  margin: 45px;\r\n}\r\n\r\nsection > div > div {\r\n  margin-top: 20px;\r\n}\r\n\r\n#scores {\r\n  border: 1px solid black;\r\n}\r\n\r\n#scores > div {\r\n  padding: 5px;\r\n}\r\n\r\n#scores :nth-child(even) {\r\n  background-color: rgb(139, 139, 139);\r\n}\r\n\r\n#add input {\r\n  display: block;\r\n  margin: 12px 1px;\r\n  width: 100%;\r\n}\r\n\r\nbutton {\r\n  box-shadow: 1px 2px 2px 1px black;\r\n}\r\n\r\n#submit {\r\n  float: right;\r\n}\r\n\r\nh3 {\r\n  display: inline-block;\r\n}\r\n\r\n#refresh {\r\n  margin-left: 10px;\r\n}\r\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
