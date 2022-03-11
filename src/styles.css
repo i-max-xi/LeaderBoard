@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+section {
+  display: grid;
+  grid-template-columns: 45% 20%;
+  gap: 100px;
+}
+
+section > div {
+  margin: 45px;
+}
+
+section > div > div {
+  margin-top: 20px;
+}
+
+#scores {
+  border: 1px solid black;
+}
+
+#scores > div {
+  padding: 5px;
+}
+
+#scores :nth-child(even) {
+  background-color: rgb(139, 139, 139);
+}
+
+#add input {
+  display: block;
+  margin: 12px 1px;
+  width: 100%;
+}
+
+button {
+  box-shadow: 1px 2px 2px 1px black;
+}
+
+#submit {
+  float: right;
+}
+
+h3 {
+  display: inline-block;
+}
+
+#refresh {
+  margin-left: 10px;
+}
