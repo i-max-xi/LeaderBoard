@@ -11,23 +11,16 @@
     <section>
       <div id="recent">
         <h3>Recent scores</h3>
-        <button id="refresh">Refresh</button>
-        <div id="scores">
-          <div>Name: 100</div>
-          <div>Name: 50</div>
-          <div>Name: 75</div>
-          <div>Name: 200</div>
-          <div>Name: 55</div>
-          <div>Name: 90</div>
-          <div>Name: 4</div>
-        </div>
+        <button><span id="refresh">Refresh &#x267B;</span></button>
+        <div id="scoreShow"></div>
       </div>
       <div id="add">
         <h3>Add your score</h3>
-        <input type="text" placeholder="your name" />
-        <input type="text" placeholder="your score" /><button id="submit">
-          Submit
-        </button>
+        <form action="submit" id="myform">
+          <input type="text" placeholder="your name" id="name"/>
+          <input type="text" placeholder="your score" id="score"/>
+          <button id="submit">Submit</button>
+        </form>
       </div>
     </section>
   </body>

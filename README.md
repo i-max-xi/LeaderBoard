@@ -2,7 +2,7 @@
 
 The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
 
-![sneak peak of project deployment](leaderboard_wireframe.png)
+![sneak peak of project deployment](./src/Assets/screenshot.JPG)
 
 
 
@@ -18,6 +18,16 @@ The leaderboard website displays scores submitted by different players. It also 
 [Deploy-link](https://i-max-xi.github.io/LeaderBoard/dist/)
 
 Quick note: Deployment is rooted to the main branch hence unmerged changes may not show.
+
+## Cloning the project
+```
+git clone  https://github.com/i-max-xi/LeaderBoard.git <Your-Build-Directory>
+```
+
+## Deploy local
+```
+npm start
+```
 
 👤 **Author** 
   - linkedIn: https://www.linkedin.com/in/appiah-maxwell-0212b41a1/
