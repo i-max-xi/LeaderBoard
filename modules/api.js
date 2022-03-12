@@ -1,7 +1,6 @@
 const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fetch(...args));
 
 const postData = async (raw) => {
-
   await fetch(
     'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/nEcxuVGuA9uybtzKJufy/scores/',
     {
