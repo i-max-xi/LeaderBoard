@@ -21,7 +21,7 @@ Quick note: Deployment is rooted to the main branch hence unmerged changes may n
 
 ## Cloning the project
 ```
-git clone  https://github.com/i-max-xi/To-do-list.git <Your-Build-Directory>
+git clone  https://github.com/i-max-xi/LeaderBoard.git <Your-Build-Directory>
 ```
 
 ## Deploy local
