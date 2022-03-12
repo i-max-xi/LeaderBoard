@@ -32,4 +32,4 @@ Give a ⭐️ if you like this project!
    - Hat tip to W3css and every website that trained me to code.
 
 ## 📝 License
-   This project is MIT licensed.
+   This project is ISC licensed.
